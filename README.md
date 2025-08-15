@@ -11,4 +11,4 @@ So extender cards have been sold for some time to facilitate working on a live c
 
 I have designed a passive slot extender as at the present very few seem to be available for purchase.
 
-
+Its the first time I have created a PCB and I used Kicad 8 & 9 to design and learn with. If the you have trouble with opening the attached files it is probably my fault as this is also a first attempt in haveing a project on GitHub.
