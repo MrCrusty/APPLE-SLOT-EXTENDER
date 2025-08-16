@@ -16,7 +16,7 @@ I also have another footprint in this library: https://github.com/markadev/KiCad
  
 My first PCB has worked but it seems that I have used the footprint that required some adjustment. It’ s pictured below and was fabricated by PCBWAY directly from the Kicad project.
 
-
+![https://github.com/MrCrusty/APPLE-SLOT-EXTENDER/blob/main/jpg/IMG_2053.JPG]
 
 
 
