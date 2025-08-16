@@ -1,15 +1,180 @@
-I will start off by saying that this is the first time posting a GitHub project and also the first time I have had a PCB fabricated.
 
-Why do I want an Apple 2 or 2e slot extender? 
-
+I will start off by saying that this is my first time posting a GitHub project and also the first time I have had a PCB fabricated commercially.
+Why do I want an Apple 2 or 2e slot extender?
 Its very tight and dark to probe a card inside the case of a Vintage Apple 2e computer, especially as there are a lot of bare live parts that can be contacted or shorted inside the case and on the Apple mother board.
 
-Thus getting the card under test, outside the case is a must for keeping the Apple well and running into the next decade.
-
+Thus getting the card under test outside the case is a must for keeping my Apple well and running into the next decade.
 Apple Card extenders are hard to source at the moment in the year 2025, so I decided to have a go at making my own.
 
-I have used Kicad 9 to design the passive circuit and produce the PCB
+I have used Kicad 9 to design the passive circuit and produce the PCB.
 
-Not all of the card is my work as 
+Not all of the design is my work as I asked contributor markdev if I could use one of his card edge footprints. And you can see his very kind reply agreeing to my use of his hard work.
 
-![IMG_2053](https://github.com/user-attachments/assets/df382c2a-b965-4390-a611-fe89690ae1ec)
+Hey there, yes that would be OK. The footprint is in this file https://github.com/markadev/AppleII-VGA/blob/main/AppleVGA/AppleVGA.pretty/AppleIIBus_Edge.kicad_mod which you can copy into your own project.
+
+I also have another footprint in this library: https://github.com/markadev/KiCad-AppleII HOWEVER it contains some small size adjustments from the one used in this project and I never got around to creating a board to test it. So it's a bit more of a risk to use.
+ 
+My first PCB has worked but it seems that I have used the footprint that required some adjustment. It’ s pictured below and was fabricated by PCBWAY directly from the Kicad project.
+
+
+I will start off by saying that this is my first time posting a GitHub project and also the first time I have had a PCB fabricated commercially.
+Why do I want an Apple 2 or 2e slot extender?
+Its very tight and dark to probe a card inside the case of a Vintage Apple 2e computer, especially as there are a lot of bare live parts that can be contacted or shorted inside the case and on the Apple mother board.
+
+Thus getting the card under test outside the case is a must for keeping my Apple well and running into the next decade.
+Apple Card extenders are hard to source at the moment in the year 2025, so I decided to have a go at making my own.
+
+I have used Kicad 9 to design the passive circuit and produce the PCB.
+
+Not all of the design is my work as I asked contributor markdev if I could use one of his card edge footprints. And you can see his very kind reply agreeing to my use of his hard work.
+
+Hey there, yes that would be OK. The footprint is in this file https://github.com/markadev/AppleII-VGA/blob/main/AppleVGA/AppleVGA.pretty/AppleIIBus_Edge.kicad_mod which you can copy into your own project.
+
+I also have another footprint in this library: https://github.com/markadev/KiCad-AppleII HOWEVER it contains some small size adjustments from the one used in this project and I never got around to creating a board to test it. So it's a bit more of a risk to use.
+ 
+My first PCB has worked but it seems that I have used the footprint that required some adjustment. It’ s pictured below and was fabricated by PCBWAY directly from the Kicad project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
