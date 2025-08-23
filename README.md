@@ -25,7 +25,19 @@ I had during the above production of Version 1 shown the 3D design to the subscr
 
 The first was to suggest the use of Electroless Nickel Immersion Gold (ENIG) instead of tin.
 
-## Version 2 nearly stalled at this point as it would seem that I must have had a first time deal from PCBWAY. The cost of the PCB had increased three times over Version 1 and the postage had jumped to the highest rate with no other options, if I was to request ENIG my wife would have have had me on bread and water for a month
+## Version 2 nearly stalled at this point as it would seem that I must have had a first time deal from PCBWAY. The cost of the PCB had increased three times over Version 1 and the postage had jumped to the highest rate with no other options, if I was to request ENIG my wife would have have had me on bread and water for a month.
+
+I decided to have a trawl on the web and see if other companies offered better deals 
+## AISLER has come to my rescue offering a resonable PCB production cost downloaded direct from my Kicad project with resonable postage rates from Germany to the UK. and ENIG was 3 Euro more than tin. Version 2 arrived exactly on the day that they advised and emails during the production run key me informed of progress. 
+## Version 2 meets the card edge requirements I expected and is nice and snug fit in the card socket.
+
+## I said there was a second suggestion which was to have a silkscreen with names of the contacts related to the extension slot, this request arrived just after Version 2 had been sent for production. 
+## A Version 3 has been designed with the new silk screen and components adjusted to allow the the extended size of the silk screen, its not been sent for production but uses exactly the same edge connector as Version 2.
+
+## I will update this readme as things transpire. 
+
+# please be aware you can plug a card in back to front with terrible results to the card and the Apple computer so do take care when using the extended. 
+# LIKE ALL MY PROJECTS ITS FREE TO USE AND ABUSE, BUT I DO NOT TAKE RESPONSIBILITY THAT YOU APPLE COMPUTER WILL LIKE OR BE ABLE TO USE THIS EXTENDER. MINE IS HAPPY WITH IT YOURS MAY NOT BE> 
 
 
 
