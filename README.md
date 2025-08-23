@@ -14,9 +14,12 @@ I also have another footprint in this library: https://github.com/markadev/KiCad
  
 My first PCB has worked but it seems that I have used the footprint that required some adjustment. 
 
-It’ s pictured below and was fabricated by PCBWAY directly from the Kicad project.
+### It’ s pictured below and was fabricated by PCBWAY directly from the Kicad project.
+![Example Image](https://github.com/MrCrusty/APPLE-SLOT-EXTENDER/blob/main/jpg/IMG_2057.JPG)
 
-
+The center slots are to allow simple seperation with a hacksaw so that the two halves can then be joined with a 50 way ribbon cable.
+![Example Image](https://github.com/MrCrusty/APPLE-SLOT-EXTENDER/blob/main/jpg/IMG_2053.JPG)
+As stated the card edge is not quite as snug in the Apple slot as it should be so a 
 Electroless Nickel Immersion Gold (ENIG)
 
 
