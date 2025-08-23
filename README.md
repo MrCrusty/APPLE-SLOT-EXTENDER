@@ -19,8 +19,14 @@ My first PCB has worked but it seems that I have used the footprint that require
 
 The center slots are to allow simple seperation with a hacksaw so that the two halves can then be joined with a 50 way ribbon cable.
 ![Example Image](https://github.com/MrCrusty/APPLE-SLOT-EXTENDER/blob/main/jpg/IMG_2053.JPG)
-As stated the card edge is not quite as snug in the Apple slot as it should be so a 
-Electroless Nickel Immersion Gold (ENIG)
+
+As stated the card edge is not quite as snug in the Apple slot as it should be so a Version 2 was designed with the card edge suitably adjusted to fit the Apple slot size snugly.
+I had during the above production of Version 1 shown the 3D design to the subscribers at APPLEFRITTER.com and asked for any improvements that might be made to Version 1. I had two answers 
+
+The first was to suggest the use of Electroless Nickel Immersion Gold (ENIG) instead of tin.
+
+## Version 2 nearly stalled at this point as it would seem that I must have had a first time deal from PCBWAY. The cost of the PCB had increased three times over Version 1 and the postage had jumped to the highest rate with no other options, if I was to request ENIG my wife would have have had me on bread and water for a month
+
 
 
 
