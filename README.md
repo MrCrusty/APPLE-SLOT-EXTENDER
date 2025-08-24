@@ -28,7 +28,7 @@ The first was to suggest the use of Electroless Nickel Immersion Gold (ENIG) ins
 ## Version 2 nearly stalled at this point as it would seem that I must have had a first time deal from PCBWAY. The cost of the PCB had increased three times over Version 1 and the postage had jumped to the highest rate with no other options, if I was to request ENIG my wife would have have had me on bread and water for a month.
 
 I decided to have a trawl on the web and see if other companies offered better deals 
-## AISLER has come to my rescue offering a resonable PCB production cost downloaded direct from my Kicad project with resonable postage rates from Germany to the UK. and ENIG was 3 Euro more than tin. Version 2 arrived exactly on the day that they advised and emails during the production run key me informed of progress. 
+## AISLER has come to my rescue offering a resonable PCB production cost downloaded direct from my Kicad project with resonable postage rates from Germany to the UK. and ENIG was 3 Euro more than tin. Version 2 arrived exactly on the day that they advised and emails during the production run kept me informed of progress. 
 ## Version 2 meets the card edge requirements I expected and is nice and snug fit in the card socket.
 
 ## I said there was a second suggestion which was to have a silkscreen with names of the contacts related to the extension slot, this request arrived just after Version 2 had been sent for production. 
