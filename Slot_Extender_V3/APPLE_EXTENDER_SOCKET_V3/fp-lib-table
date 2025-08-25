@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Apple_edge")(type "KiCad")(uri "//BTD14_NAS/Laptops/Apple 2E/A2VGA/AppleII-VGA-main/AppleVGA-Connector/AppleVGA-Connector.pretty")(options "")(descr "")(disabled))
+  (lib (name "AppleVGA")(type "KiCad")(uri "//BTD14_NAS/Laptops/Apple 2E/A2VGA/AppleII-VGA-main/AppleVGA/AppleVGA.pretty")(options "")(descr "")(disabled))
+  (lib (name "appllell-vga-edge")(type "KiCad")(uri "D:/Kicad_Projects.pretty")(options "")(descr "")(disabled))
+  (lib (name "Kicad_Projects")(type "KiCad")(uri "D:/Kicad_Projects.pretty")(options "")(descr "")(disabled))
+  (lib (name "Apple_CardEdge")(type "KiCad")(uri "D:/KiCad Projects Keeper/User_Symbols")(options "")(descr "")(disabled))
+  (lib (name "6502_BP_Bus")(type "KiCad")(uri "D:/KiCad Projects Keeper/Project_pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
