@@ -33,6 +33,7 @@ I decided to have a trawl on the web and see if other companies offered better d
 
 ## I said there was a second suggestion which was to have a silkscreen with names of the contacts related to the extension slot, this request arrived just after Version 2 had been sent for production. 
 ## A Version 3 has been designed with the new silk screen and components adjusted to allow the the extended size of the silk screen, its not been sent for production but uses exactly the same edge connector as Version 2.
+![Example Image](https://github.com/MrCrusty/APPLE-SLOT-EXTENDER/blob/main/3D%20V3%20slot%20extender.png)
 # On the subject of downloading the Kicad 9 project files.
 ## If you just want to have a copy of the project files CLICK ON THE GREEN BUTTON and select "download zip" option this will give you all the files and pictures in this repository, pictures are large in bytes, so I tend to delete when I have the unzipped file on my local machine. 
 ### If you want to Fork this project be my guest. 
