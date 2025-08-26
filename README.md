@@ -28,17 +28,20 @@ The first was to suggest the use of Electroless Nickel Immersion Gold (ENIG) ins
 ## Version 2 nearly stalled at this point as it would seem that I must have had a first time deal from PCBWAY. The cost of the PCB had increased three times over Version 1 and the postage had jumped to the highest rate with no other options, if I was to request ENIG my wife would have have had me on bread and water for a month.
 
 I decided to have a trawl on the web and see if other companies offered better deals 
-## AISLER has come to my rescue offering a resonable PCB production cost downloaded direct from my Kicad project with resonable postage rates from Germany to the UK. and ENIG was 3 Euro more than tin. Version 2 arrived exactly on the day that they advised and emails during the production run kept me informed of progress. 
+## AISLER has come to my rescue offering a resonable PCB production cost downloaded direct from my Kicad project with resonable postage rates from Germany to the UK. ENIG was 3 Euro more than tin. Version 2 arrived exactly on the day that they advised and emails during the production run kept me informed of progress. 
 ## Version 2 meets the card edge requirements I expected and is nice and snug fit in the card socket.
 
 ## I said there was a second suggestion which was to have a silkscreen with names of the contacts related to the extension slot, this request arrived just after Version 2 had been sent for production. 
 ## A Version 3 has been designed with the new silk screen and components adjusted to allow the the extended size of the silk screen, its not been sent for production but uses exactly the same edge connector as Version 2.
+# On the subject of downloading the Kicad 9 project files.
+## If you just want to have a copy of the project files CLICK ON THE GREEN BUTTON and select "download zip" option this will give you all the files and pictures in this repository, pictures are large in bytes, so I tend to delete when I have the unzipped file on my local machine. 
+### If you want to Fork this project be my guest. 
+### I do not intend to sell these cards myself but if you want to manufacture for sale please make sure you donate to Kicad.
 
-## I will update this readme as things transpire. 
-
-# please be aware you can plug a card in back to front with terrible results to the card and the Apple computer so do take care when using the extended. 
+# Please be aware you can plug a card in back to front with terrible results to the card and the Apple computer so do take care when using the extender. 
 # LIKE ALL MY PROJECTS ITS FREE TO USE AND ABUSE, BUT I DO NOT TAKE RESPONSIBILITY THAT YOU APPLE COMPUTER WILL LIKE OR BE ABLE TO USE THIS EXTENDER. MINE IS HAPPY WITH IT YOURS MAY NOT BE> 
-
+Some previous web discussion with regard to cable extenders suggest they cause timing problems. 
+At the bus speed of the Apple if you get this problem then you probably have a design problem on the card anyway, how ever the ribbon cable may generate crosstalk as each active ribbon cable is not seperated by a ground line.
 
 
 
