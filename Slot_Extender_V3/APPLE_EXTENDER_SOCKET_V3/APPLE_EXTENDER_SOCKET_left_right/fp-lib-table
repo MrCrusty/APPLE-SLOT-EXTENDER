@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Apple_footprints")(type "KiCad")(uri "D:/KiCad Projects Keeper/User_Footprints")(options "")(descr ""))
-  (lib (name "Apple_symbols")(type "KiCad")(uri "D:/KiCad Projects Keeper/User_Symbols")(options "")(descr ""))
-)
